@@ -1,4 +1,4 @@
-# NTU Yr1Sm2: Intro-to-Data-Science-and-AI  
+# NTU Yr1Sm2: Intro-to-Data-Science-and-AI Sem 2  
  Basic Data Exploration and Wraggling using Jupyter Notebook.  
  
  Module Coverage Part 1:  
